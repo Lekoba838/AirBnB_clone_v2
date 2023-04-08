@@ -156,6 +156,6 @@ No known bugs at this time.
 ## Authors
 
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Matlakala Lucia and Nellencr
 ## License
 Public Domain. No copy write protection. 
